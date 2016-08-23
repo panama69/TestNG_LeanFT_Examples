@@ -1,0 +1,520 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2016-08-22 19:38:52</RunStartTime>
+        <Timezone>Central Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+        <CustomFields name="Mobile Center Server:" value="http://almtraining:8084/"/>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2016-08-22 19:38:52</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration>35</Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.1.7601 Service Pack 1]]></OSInfo>
+                <HostName>ALMTRAINING</HostName>
+                <NumberOfCores>2</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>8191</TotalMemory>
+                <Locale><![CDATA[en-US]]></Locale>
+                <Timezone>Central Standard Time</Timezone>
+                <User>Administrator</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[12.53]]></ToolVersion>
+        </Data>
+        <ReportNode type="Suite">
+            <Data>
+                <Name>Default suite</Name>
+                <Description/>
+                <StartTime>2016-08-22 19:38:52</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration>35</Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Suite</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="TestContainer">
+                <Data>
+                    <Name>Default test</Name>
+                    <Description/>
+                    <StartTime>2016-08-22 19:38:52</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration>35</Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>TestContainer</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Package">
+                    <Data>
+                        <Name><![CDATA[com.corndog]]></Name>
+                        <Description><![CDATA[Version: N/A]]></Description>
+                        <StartTime>2016-08-22 19:38:52</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration>35</Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Package</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name><![CDATA[com.corndog.LeanFtTest]]></Name>
+                            <Description/>
+                            <StartTime>2016-08-22 19:38:52</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>35</Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>parallelMethod</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:38:52</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>10</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name><![CDATA[Info: ]]></Name>
+                                    <Description><![CDATA[Test: Thread id = 1]]></Description>
+                                    <StartTime>2016-08-22 19:38:52</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name>Slept9300</Name>
+                                    <Description/>
+                                    <StartTime>2016-08-22 19:39:01</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodsFive</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:01</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>8</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name><![CDATA[Info: ]]></Name>
+                                    <Description><![CDATA[Test: Thread id = 1]]></Description>
+                                    <StartTime>2016-08-22 19:39:01</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name>Slept7400</Name>
+                                    <Description/>
+                                    <StartTime>2016-08-22 19:39:09</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodsFour</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:09</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>7</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name><![CDATA[Info: ]]></Name>
+                                    <Description><![CDATA[Test: Thread id = 1]]></Description>
+                                    <StartTime>2016-08-22 19:39:09</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name>Slept6800</Name>
+                                    <Description/>
+                                    <StartTime>2016-08-22 19:39:16</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodsOne</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:16</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>1</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name><![CDATA[Info: ]]></Name>
+                                    <Description><![CDATA[Test: Thread id = 1]]></Description>
+                                    <StartTime>2016-08-22 19:39:16</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name>Slept900</Name>
+                                    <Description/>
+                                    <StartTime>2016-08-22 19:39:17</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodsThree</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:17</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>8</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name><![CDATA[Info: ]]></Name>
+                                    <Description><![CDATA[Test: Thread id = 1]]></Description>
+                                    <StartTime>2016-08-22 19:39:17</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name>Slept7400</Name>
+                                    <Description/>
+                                    <StartTime>2016-08-22 19:39:24</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodsTwo</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:24</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>3</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name><![CDATA[Info: ]]></Name>
+                                    <Description><![CDATA[Test: Thread id = 1]]></Description>
+                                    <StartTime>2016-08-22 19:39:24</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="CustomStep">
+                                <Data>
+                                    <Name>Slept2500</Name>
+                                    <Description/>
+                                    <StartTime>2016-08-22 19:39:27</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>CustomStep</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                    </ReportNode>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name><![CDATA[com.corndog.Automation_02]]></Name>
+                            <Description/>
+                            <StartTime>2016-08-22 19:39:27</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>1</Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name><![CDATA[com.corndog.Automation_01]]></Name>
+                            <Description/>
+                            <StartTime>2016-08-22 19:39:27</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>1</Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name><![CDATA[com.corndog.ParallelClassesTestTwo]]></Name>
+                            <Description/>
+                            <StartTime>2016-08-22 19:39:27</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>1</Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodOne</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:27</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>1</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodTwo</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:27</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>1</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                    </ReportNode>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name><![CDATA[com.corndog.ParallelClassesTestOne]]></Name>
+                            <Description/>
+                            <StartTime>2016-08-22 19:39:27</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>1</Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodOne</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:27</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>1</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>testMethodTwo</Name>
+                                <Description/>
+                                <StartTime>2016-08-22 19:39:27</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>1</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
