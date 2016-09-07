@@ -1,5 +1,10 @@
 *.class
 
+# LeanFT folders not needed
+bin/
+RunResults/
+test-output/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
